@@ -41,7 +41,7 @@ link
 
 ### Toplantı ve Discord ScreenShotları
 
-(buraya discord konuşmaları eklenecek) (imgur üzerinden yapmışlar)
+[https://imgur.com/a/KfvRqsL]
 
 - **Tasarım ve Developing:**
 
