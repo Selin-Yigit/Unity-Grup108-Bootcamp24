@@ -41,7 +41,7 @@ link
 
 ### Toplantı ve Discord ScreenShotları
 
-[Discord]([https://pages.github.com/](https://imgur.com/a/KfvRqsL))
+![Discord]([https://pages.github.com/](https://imgur.com/a/KfvRqsL))
 
 
 - **Tasarım ve Developing:**
