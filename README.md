@@ -43,12 +43,12 @@ link
 
 (buraya discord konuşmaları eklenecek) (imgur üzerinden yapmışlar)
 
-- **Tasarım ve Developing:
+- **Tasarım ve Developing:**
 
 - **Sprint 1 borad update:** Sprint board Screenhot:
   screenshotlar buraya
 
-- **Ürün durumu ekran görüntüleri:
+- **Ürün durumu ekran görüntüleri:**
 
 (buraya ana karakterin resmi, odaların görüntüsü, unity ekran yapılış aşaması görüntüsü, zaman makinesi veya diğer materyallerin görüntüsü, ana karakter haraket ederkenki görüntüsü)
 
