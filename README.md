@@ -33,4 +33,4 @@ link
 -Bulmaca sevenler,
 -Hikâye tabanlı oyunları sevenler
 
-#SPRINT 1
+# SPRINT 1
