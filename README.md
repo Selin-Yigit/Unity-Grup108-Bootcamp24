@@ -25,7 +25,7 @@ link
 -Bulmaca mekanikleri
 -Hikâye tabanlı
 
-##Hedef kitle
+## Hedef kitle
 
 -Her yaştan oyuncu kitlesi,
 -Bulmaca sevenler,
