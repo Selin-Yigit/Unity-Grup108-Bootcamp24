@@ -33,13 +33,13 @@ link
 
 # SPRINT 1
 
-- Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.
+- Sprint içi puan değerlendirmesi 8 olarak belirlenmiştir.
 - **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 - **Daily Scrum:**
   - Görüşmeler için Discord kullanılmıştır.
   - Gruptaki her bir birey için görevlendirme yapılmıştır.
 
-### Toplantı ve Whatsapp ScreenShotları
+### Toplantı ve Discord ScreenShotları
 
 (buraya discord konuşmaları eklenecek) (imgur üzerinden yapmışlar)
 
@@ -56,6 +56,11 @@ link
   - Map’e karakter sayısına ve gerçekçi tasarım dili olmasına karar verildi.
 
   - Sprint Review katılımcıları: Onur Özdemir, Sena Aksu, Selin Yiğit, Sema Nur Korkma
+
+- **Sprint Retrospective:**
+  - Kimin hangi rolü alacağına karar verildi.
+  - Her bir birey için ayrı görevlendirme yapıldı.
+  - Süreç içerisinde bireyler diğer takım arkadaşlarıyla beraber haberleşerek hareket etti.
 
 
 
