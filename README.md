@@ -6,10 +6,10 @@ U108 Unity Takımı
 
 ## Takım Üyeleri
 
-Sema - Product Owner
-Onur Özdemir - Scrum Master
-Selin Yiğit - Developer
-Sena - Developer
+-Sema - Product Owner
+-Onur Özdemir - Scrum Master
+-Selin Yiğit - Developer
+-Sena - Developer
 
 ## Oyun İsmi
 
