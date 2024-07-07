@@ -50,8 +50,12 @@ Fragments of Time
 
 - **Ürün durumu ekran görüntüleri:**
 
-(buraya ana karakterin resmi, odaların görüntüsü, unity ekran yapılış aşaması görüntüsü, zaman makinesi veya diğer materyallerin görüntüsü, ana karakter haraket ederkenki görüntüsü)
+  ![alt text](https://github.com/Selin-Yigit/Unity-Grup108-Bootcamp24/blob/main/ScreenShots/image.png?raw=true)
 
+  ![alt text](https://github.com/Selin-Yigit/Unity-Grup108-Bootcamp24/blob/main/ScreenShots/image2.png?raw=true)
+
+  ![alt text](https://github.com/Selin-Yigit/Unity-Grup108-Bootcamp24/blob/main/ScreenShots/image3.png?raw=true)
+  
 - **Sprint Review:**
   - Map’e karakter sayısına ve gerçekçi tasarım dili olmasına karar verildi.
 
