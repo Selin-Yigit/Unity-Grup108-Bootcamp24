@@ -1,4 +1,4 @@
-FOTO
+
 
 ## Takım İsmi
 
@@ -13,11 +13,11 @@ U108 Unity Takımı
 
 ## Oyun İsmi
 
-Zamanda Kayıp 
+Fragments of Time
 
 ## Product Backlog URL
 
-link
+[U108 Unity Trello Backlog Board](https://semakorkmaz.atlassian.net/jira/software/projects/KAN/boards/1)
 
 ## Oyun Açıklaması
 
