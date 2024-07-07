@@ -46,7 +46,7 @@ Fragments of Time
 - **Tasarım ve Developing:**
 
 - **Sprint 1 borad update:** Sprint board Screenhot:
-  screenshotlar buraya
+  ![alt text](https://github.com/Selin-Yigit/Unity-Grup108-Bootcamp24/blob/main/ScreenShots/Ekran%20Resmi%202024-07-07%2022.22.03.png?raw=true)
 
 - **Ürün durumu ekran görüntüleri:**
 
