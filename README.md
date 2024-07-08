@@ -34,7 +34,7 @@ Fragments of Time
 # SPRINT 1
 
 - Sprint içi puan değerlendirmesi 8 olarak belirlenmiştir.
-- **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+- **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 8 olarak belirlenmiştir ve hedefe ulaşılmıştır.
 - **Daily Scrum:**
   - Görüşmeler için Discord kullanılmıştır.
   - Gruptaki her bir birey için görevlendirme yapılmıştır.
