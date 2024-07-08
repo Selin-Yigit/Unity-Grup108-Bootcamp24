@@ -21,6 +21,10 @@ Fragments of Time
 
 ## Oyun Açıklaması
 
+Ana karakterimiz bir bilim insanıdır. Kendi evinin bodrumunda bir zaman makinesi inşa etmiştir. Tam çalıştıracağı sıra bir şeyler ters gitmiştir ve zaman makinesi patlar. Patladığında bazı parçalar zamanda ileriye ve geriye sıçrar. O sırada bazı parçalar, o an da odanın içinde olan ana karakterimiz ve eşi patlamanın etkisiyle parçalarla beraber zamanda ileri ve geriye gitmek zorunda kalırlar. Ana karakterimiz eşini tekrar bulup kendi zamanına dönmeyi amaç edinir. Bunun için gittiği yerlerde zaman makinesinin parçalarını toplayarak ilerlemeye başlar. Sonunda tüm parçaları toplar eşini bulur ve birlikte patlamanın olduğu zamana kendi evlerinin bodrumuna geri dönerler.
+
+## Ürün Özellikleri
+
 - 3D
 - Bulmaca mekanikleri
 - Hikâye tabanlı
