@@ -74,10 +74,10 @@ Ana karakterimiz bir bilim insanıdır. Kendi evinin bodrumunda bir zaman makine
 # SPRINT 2
 
 - Sprint içi puan değerlendirmesi 12 olarak belirlenmiştir.
-- **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılamamıştır. Heritaların ve karakterin geliştirilmesinde bir takım sıkıntıların çıkması sebebi ile gecikme yaşanmıştır.
+- **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 12 olarak belirlenmiştir ve hedefe ulaşılamamıştır. Haritaların ve karakterin geliştirilmesinde bir takım sıkıntıların çıkması sebebi ile gecikme yaşanmıştır.
 - **Daily Scrum:**
   - Görüşmeler için Discord kullanılmıştır.
-  - Gruptaki her bir birey için görevlendirme yapılmıştır.
+  - Gruptaki her bir birey görevlerini yerine getirmek için çalışmıştır.
   - Geliştirilmelere başlanmıştır ve sorunların çözülmesinde tüm takım ortak bir çaba göstermiştir.
 
 ### Toplantı ve Discord ScreenShotları
