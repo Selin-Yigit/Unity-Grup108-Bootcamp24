@@ -95,17 +95,14 @@ Ana karakterimiz bir bilim insanıdır. Kendi evinin bodrumunda bir zaman makine
 - **Ürün durumu ekran görüntüleri:**
 
   ![alt text](![Ekran görüntüsü 2024-07-21 224914](https://github.com/user-attachments/assets/20a2f858-37e6-4bc0-ad46-42e1940e6d5d)
-)
 
   ![alt text](![Ekran görüntüsü 2024-07-21 224832](https://github.com/user-attachments/assets/aa3de404-ef6b-44e4-a2b7-b8c16788adae)
-)
 
   ![alt text](![Ekran görüntüsü 2024-07-21 224203](https://github.com/user-attachments/assets/d4e2704e-13e6-4402-bb9f-4ebf8bf08a0b)
-)
+  
   ![alt text](![Ekran görüntüsü 2024-07-21 224914](![Ekran görüntüsü 2024-07-21 224241](https://github.com/user-attachments/assets/9c7589d9-9cd2-43f2-8713-3f22457d9f87)
-)
+  
   ![alt text](![Ekran görüntüsü 2024-07-21 224914](![Ekran görüntüsü 2024-07-21 224312](https://github.com/user-attachments/assets/039a5cf9-b24e-40dc-9deb-11db5dbc328e)
-)
 
 - **Sprint Review:**
   - Sprint sonunda ekip ile bir toplantı gerçekleştirilmiştir ve süreç içinde karşılaşılan sorunlar tartışılarak bu sorunların üstesinden gelinmesi için yapılması gerekenler konuşulmuştur.
