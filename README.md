@@ -87,22 +87,23 @@ Ana karakterimiz bir bilim insanıdır. Kendi evinin bodrumunda bir zaman makine
 - **Tasarım ve Developing:**
 
 - **Sprint 2 borad update:** Sprint board Screenhot:
-  ![alt text](![Ekran görüntüsü 2024-07-21 230121](https://github.com/user-attachments/assets/265ace9a-998a-4b98-ad05-51113a388e98)
-)
-   ![alt text](![Ekran görüntüsü 2024-07-21 230148](https://github.com/user-attachments/assets/ec748189-e041-4212-af60-cef4d82ceb78)
-)
+  ![Ekran görüntüsü 2024-07-21 230121](https://github.com/user-attachments/assets/5fa5e99e-7c4d-4d4a-8c98-a7ac60709ec1)
+
+  ![Ekran görüntüsü 2024-07-21 230148](https://github.com/user-attachments/assets/46a36bc0-3a8c-48b5-8aca-55083639f380)
+
 
 - **Ürün durumu ekran görüntüleri:**
+  ![Ekran görüntüsü 2024-07-21 224115](https://github.com/user-attachments/assets/83651f7b-cdde-4550-8fd6-46e16febfa68)
 
-  ![alt text](![Ekran görüntüsü 2024-07-21 224914](https://github.com/user-attachments/assets/20a2f858-37e6-4bc0-ad46-42e1940e6d5d)
-
-  ![alt text](![Ekran görüntüsü 2024-07-21 224832](https://github.com/user-attachments/assets/aa3de404-ef6b-44e4-a2b7-b8c16788adae)
-
-  ![alt text](![Ekran görüntüsü 2024-07-21 224203](https://github.com/user-attachments/assets/d4e2704e-13e6-4402-bb9f-4ebf8bf08a0b)
+  ![Ekran görüntüsü 2024-07-21 224832](https://github.com/user-attachments/assets/e08dddde-d597-4773-ad5a-f92b08df78df)
   
-  ![alt text](![Ekran görüntüsü 2024-07-21 224914](![Ekran görüntüsü 2024-07-21 224241](https://github.com/user-attachments/assets/9c7589d9-9cd2-43f2-8713-3f22457d9f87)
+  ![Ekran görüntüsü 2024-07-21 224914](https://github.com/user-attachments/assets/a7050699-b4b6-4460-a026-b77dba527dcf)
   
-  ![alt text](![Ekran görüntüsü 2024-07-21 224914](![Ekran görüntüsü 2024-07-21 224312](https://github.com/user-attachments/assets/039a5cf9-b24e-40dc-9deb-11db5dbc328e)
+  ![Ekran görüntüsü 2024-07-21 224203](https://github.com/user-attachments/assets/495f8354-a87b-457b-9ae7-8ea3f4bf3fb9)
+  
+  ![Ekran görüntüsü 2024-07-21 224241](https://github.com/user-attachments/assets/e3fc10cf-16cf-461a-833c-0fbe04e130cd)
+  
+  ![Ekran görüntüsü 2024-07-21 224312](https://github.com/user-attachments/assets/d1f5b8ef-7572-4087-bc07-a0d9ae5fddd4)
 
 - **Sprint Review:**
   - Sprint sonunda ekip ile bir toplantı gerçekleştirilmiştir ve süreç içinde karşılaşılan sorunlar tartışılarak bu sorunların üstesinden gelinmesi için yapılması gerekenler konuşulmuştur.
