@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/FutureScene.unity
+- path: Assets/Scenes/PastEraScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
