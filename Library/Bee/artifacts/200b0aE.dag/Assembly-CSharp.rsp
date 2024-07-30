@@ -118,8 +118,6 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"/Applications/Unity/Hub/Editor/2022.3.14f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Common.dll"
--r:"/Applications/Unity/Hub/Editor/2022.3.14f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll"
 -r:"/Applications/Unity/Hub/Editor/2022.3.14f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"/Applications/Unity/Hub/Editor/2022.3.14f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"/Applications/Unity/Hub/Editor/2022.3.14f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -368,8 +366,11 @@
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.14f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.14f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Characters/PlayerInput.cs"
+"Assets/Sci Fi Modular Pack/Scripts/CameraController.cs"
 "Assets/ScifiOfficeLite/Scripts/DemoDoor.cs"
 "Assets/ScifiOfficeLite/Scripts/DemoFirstPersonController.cs"
+"Assets/SpaceSkies Free/Demo/Scripts/LookCamera.cs"
+"Assets/SpaceSkies Free/Demo/Scripts/SkyboxChanger.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
